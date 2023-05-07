@@ -4,7 +4,8 @@
   "description": "Next Scaffolding allows you to create pages and other parts of next really quickly.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node esbuild.config.js"
   },
   "author": "",
   "license": "ISC",
